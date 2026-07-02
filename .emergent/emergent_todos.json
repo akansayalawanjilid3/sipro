@@ -4,23 +4,27 @@
     "status": "completed"
   },
   {
-    "content": "Omnichannel domain (WA in-chat + Ads capture) + framework binding + critical self-review",
+    "content": "Omnichannel domain + framework binding + critical self-review",
     "status": "completed"
   },
   {
-    "content": "Extract adoptable SIPROnext code (models, shared, routers) → Adoption Map (Dok 10)",
+    "content": "Adoption Map (Dok 10) + full Specification Layer (Dok 11-17)",
     "status": "completed"
   },
   {
-    "content": "Full Specification Layer for entire system: Entity Registry, State Machines, Engine, RBAC, Finance, API, NFR/POC/MVP (Dok 11-17)",
+    "content": "Sync all docs with owner decisions + framework binder index",
     "status": "completed"
   },
   {
-    "content": "Update all docs with owner decisions (full-spec-first, both MVP slices, adoption, WA-sim) + index framework binder",
+    "content": "design_agent → design system (/app/design_guidelines.md)",
     "status": "completed"
   },
   {
-    "content": "Get go-ahead for next stage: design_agent → POC core → Fase 0 + MVP slices",
-    "status": "in_progress"
+    "content": "POC core: event bus/scheduler/atomic booking/RevRec/PDF/webhook-sim in one script (Dok 17 §2.2)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 0 Fondasi + MVP Slice A (Sales) & B (Konstruksi) → gates → testing_agent",
+    "status": "pending"
   }
 ]

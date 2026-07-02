@@ -73,6 +73,6 @@ Rebuild **layak & bernilai**; kegagalan lama = fondasi & eksekusi. Aset SIPRO **
 
 - [x] 01–09 Analisis + blueprint + roadmap + review kritis
 - [x] **10–17 Lapisan Spesifikasi lengkap (seluruh sistem)** ← keputusan owner
-- [ ] design_agent → design system
+- [x] design_agent → design system → `/app/design_guidelines.md` (modern-SaaS: teal+amber, Space Grotesk/Inter/Roboto Mono, pattern library + data-testid)
 - [ ] POC core (Dok 17 §2.2)
 - [ ] Fase 0 Fondasi + MVP Slice A & B (Dok 17 §3) → gate hijau → testing_agent
