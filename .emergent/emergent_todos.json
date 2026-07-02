@@ -1,18 +1,10 @@
 [
   {
-    "content": "Deep analysis (repos) + business/benchmark/pain-points/personas research",
+    "content": "Deep analysis + research + full framework (docs 00-17)",
     "status": "completed"
   },
   {
-    "content": "Omnichannel domain + framework binding + critical self-review",
-    "status": "completed"
-  },
-  {
-    "content": "Adoption Map (Dok 10) + full Specification Layer (Dok 11-17)",
-    "status": "completed"
-  },
-  {
-    "content": "Sync all docs with owner decisions + framework binder index",
+    "content": "Adoption Map + Specification Layer",
     "status": "completed"
   },
   {
@@ -20,11 +12,23 @@
     "status": "completed"
   },
   {
-    "content": "POC core: event bus/scheduler/atomic booking/RevRec/PDF/webhook-sim in one script (Dok 17 §2.2)",
+    "content": "POC core 7/7 LULUS (/app/poc/poc_core.py)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 0 Fondasi (auth+RBAC, nav config-driven, Role-Home shell, Event Bus+Scheduler+GWE+Activity, guardrail scripts, design system) + gates",
     "status": "pending"
   },
   {
-    "content": "Fase 0 Fondasi + MVP Slice A (Sales) & B (Konstruksi) → gates → testing_agent",
+    "content": "MVP Slice A (Sales: capture→lead→Work Hub→appointment→SPR/booking)",
+    "status": "pending"
+  },
+  {
+    "content": "MVP Slice B (Konstruksi: proyek→unit→progress/Kurva-S→material opname)",
+    "status": "pending"
+  },
+  {
+    "content": "testing_agent end-to-end (test scenarios Dok 17 §4) + fix bugs",
     "status": "pending"
   }
 ]
