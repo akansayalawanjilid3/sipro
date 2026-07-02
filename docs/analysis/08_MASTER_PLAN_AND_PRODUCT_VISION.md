@@ -1,7 +1,8 @@
 # SIPRO Rebuild — Dokumen 08
 # MASTER IMPLEMENTATION PLAN & PRODUCT VISION (detail: cara implementasi + gambaran produk)
 
-> Status: PLAN DETAIL (pusat framework). Bahasa: Indonesia.
+> Status: PLAN DETAIL (pusat framework; diperbarui dgn keputusan owner). Bahasa: Indonesia.
+> **UPDATE:** eksekusi mengikuti Dok 17 — Spesifikasi lengkap (Dok 10–17) → POC core → Fase 0 + **MVP Slice A (Sales tipis) & B (Konstruksi tipis)** → lebarkan. Logika di-**PORT dari SIPROnext** sesuai **Dok 10 (Adoption Map)**. Skema/kontrak mengacu Dok 11/12/16; engine Dok 13; RBAC Dok 14; finance Dok 15.
 > Cara pakai: dokumen ini = **HOW & WHAT** (gambaran produk + cara implementasi). Untuk **WHY/root-cause**, tiap bagian menautkan ke Dok 01/02/05/06/07. Untuk **fondasi/guardrail**, lihat Dok 04. Untuk **IA/Work Hub/domain**, lihat Dok 03.
 > Format tiap EPIC: **(a) Root-cause ref → (b) Gambaran Produk (layar/alur/state) → (c) Implementasi (data, endpoint, service, event) → (d) Guardrail → (e) DoD/KPI.**
 

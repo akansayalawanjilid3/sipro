@@ -1,26 +1,26 @@
 [
   {
-    "content": "Deep analysis of SIPROnext + kn repos",
+    "content": "Deep analysis (repos) + business/benchmark/pain-points/personas research",
     "status": "completed"
   },
   {
-    "content": "Research: business process + benchmark + pain points + personas/JTBD",
+    "content": "Omnichannel domain (WA in-chat + Ads capture) + framework binding + critical self-review",
     "status": "completed"
   },
   {
-    "content": "Research + document Omnichannel domain (WA in-chat inbox + Ads lead capture + conversational triggers→lifecycle)",
+    "content": "Extract adoptable SIPROnext code (models, shared, routers) → Adoption Map (Dok 10)",
     "status": "completed"
   },
   {
-    "content": "Bind all docs into one framework (framework map + traceability matrix + cross-refs)",
+    "content": "Full Specification Layer for entire system: Entity Registry, State Machines, Engine, RBAC, Finance, API, NFR/POC/MVP (Dok 11-17)",
     "status": "completed"
   },
   {
-    "content": "Write detailed Master Plan + Product Vision (implementation + gambaran produk, root-cause refs)",
+    "content": "Update all docs with owner decisions (full-spec-first, both MVP slices, adoption, WA-sim) + index framework binder",
     "status": "completed"
   },
   {
-    "content": "Present deepened framework & get approval to start Fase 0",
+    "content": "Get go-ahead for next stage: design_agent → POC core → Fase 0 + MVP slices",
     "status": "in_progress"
   }
 ]

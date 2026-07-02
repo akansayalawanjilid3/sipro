@@ -1,7 +1,8 @@
 # SIPRO Rebuild — Dokumen 04
 # USULAN MASTER ROADMAP: FONDASI + EPIC + RENCANA GUARDRAIL
 
-> Status: USULAN PLAN (menunggu ACC owner sebelum eksekusi fondasi). Bahasa: Indonesia.
+> Status: PLAN (diperbarui dgn keputusan owner). Bahasa: Indonesia.
+> **UPDATE keputusan owner:** (1) **Spesifikasi lengkap seluruh sistem dibuat dulu** (Dok 10–17) sebelum kode. (2) Urutan: Spec → **POC core** (Dok 17 §2.2) → **Fase 0 Fondasi + MVP Slice A (Sales tipis) & B (Konstruksi tipis)** (Dok 17 §3) → lebarkan per pilar. (3) **Adopsi kode SIPROnext** (Dok 10) untuk minimalisir kerugian. (4) WA/Ads **simulasi-jujur dulu**.
 > Aturan emas (diadopsi & ditingkatkan dari `kn`): **KODE MENANG atas DOKUMEN**, verifikasi di DB bersih, **"200/running ≠ benar"**, guardrail tumbuh bersama fitur, **dilarang klaim hijau palsu**.
 
 ---
