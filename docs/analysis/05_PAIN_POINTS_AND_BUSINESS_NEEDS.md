@@ -31,6 +31,8 @@ Semua fitur SIPRO harus bermuara ke salah satu dari empat outcome bisnis nyata d
 | SL-6 | **Sengketa/opaqueness komisi** | Perhitungan manual, aturan tak jelas | Demotivasi sales, dispute | **Komisi engine transparan (per-deal, saat lunas/akad) + breakdown di Sales Home** | Dispute komisi ↓; retensi sales ↑ |
 | SL-7 | **Manajemen tak lihat performa tim real-time** | Data tersebar, tak ada leaderboard | Sulit coaching & alokasi lead | **Manager Home: funnel, SLA tim, leaderboard, gamifikasi mission** | Attainment target tim ↑ (mission +~10%) |
 
+> **Sinergi:** SL-1 & SL-2 diselesaikan secara nyata oleh **Omnichannel Lead Engine (Dok 07)** — Ads capture <30 dtk + WA in-chat inbox + trigger percakapan→lifecycle. Gambaran produk & implementasinya di **Dok 08 §EPIC 1.7**.
+
 ### Prinsip sales yang ditegakkan sistem
 - **Speed-to-lead** = metrik #1 (SLA + auto-assign + task instan).
 - **Stratifikasi sumber**: portal (volume tinggi, sentuhan rendah, otomasi) vs referral (sentuhan tinggi) — cadence berbeda.

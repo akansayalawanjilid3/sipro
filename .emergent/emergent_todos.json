@@ -4,23 +4,23 @@
     "status": "completed"
   },
   {
-    "content": "Research: ID property business process + benchmark (Salesforce/HubSpot/Procore/etc)",
+    "content": "Research: business process + benchmark + pain points + personas/JTBD",
     "status": "completed"
   },
   {
-    "content": "Deep research: real-world pain points (sales conversion, material leakage, delays, cash flow, buyer trust)",
+    "content": "Research + document Omnichannel domain (WA in-chat inbox + Ads lead capture + conversational triggers→lifecycle)",
     "status": "completed"
   },
   {
-    "content": "Deep research: user personas/JTBD + PMS & construction PM product benchmark + KPI framework",
+    "content": "Bind all docs into one framework (framework map + traceability matrix + cross-refs)",
     "status": "completed"
   },
   {
-    "content": "Write analysis docs 01-06 + index (repo/feasibility, business/benchmark, IA/WorkHub, roadmap, pain-points, personas)",
+    "content": "Write detailed Master Plan + Product Vision (implementation + gambaran produk, root-cause refs)",
     "status": "completed"
   },
   {
-    "content": "Present deepened synthesis & get approval before building engineering foundation (Fase 0)",
+    "content": "Present deepened framework & get approval to start Fase 0",
     "status": "in_progress"
   }
 ]

@@ -56,6 +56,8 @@ Work Hub adalah **lapisan pemandu + kolaborasi** yang menempel pada data ERP. Em
 - **Channel** ringan per proyek besar / deal penting / tim: aliran diskusi + tugas + dokumen terkait, mirip Slack channel namun **terikat entitas ERP**.
 - Notifikasi per-channel (follow/mute), inbox @mention global.
 
+> **Sinergi:** salah satu channel utama adalah **WhatsApp Inbox in-app** yang terhubung ke pelanggan eksternal + capture lead dari iklan. Arsitektur & trigger percakapan→lifecycle dibahas tuntas di **Dok 07 (Omnichannel Lead Engine)**; gambaran produk di **Dok 08 §EPIC 1.7**.
+
 > Fase awal: feed/komentar/@mention/task via **polling + optimistic UI** (murah, andal). **WebSocket real-time** = peningkatan terjadwal (Dok 04).
 
 ---
